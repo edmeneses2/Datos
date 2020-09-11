@@ -1,0 +1,21 @@
+"Año";"Periodo";"Parámetro";"Porcentaje de jugadores"
+"2017";"Año";"Consolas";"23"
+"2017";"Año";"Consolas portátiles";"10"
+"2017";"Año";"Otros";"13"
+"2017";"Año";"PC";"22"
+"2017";"Año";"Smartphones";"21"
+"2017";"Año";"Tablets";"11"
+;;
+;;
+"Métrica":"Porcentaje de jugadores"
+"Fuente":"Aevi"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/consolas-pc-dispositivos-mas-usados-jugadores-espanoles/c4c8d76a-1bcf-4c42-8061-64d8ed2bad27"
+"Titulo":"Las consolas y el PC, los dispositivos más usados entre los jugadores españoles"
+"Subtitulo":""
